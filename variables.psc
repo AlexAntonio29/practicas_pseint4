@@ -1,3 +1,5 @@
-Algoritmo sin_titulo
+Algoritmo varaibles
+	
+	Escribir "Hola mundo!"
 	
 FinAlgoritmo
